@@ -3,7 +3,7 @@ import "./css/Form.css";
 import "./css/pickupsection.css";
 import { Container, Row, Col, Button, Modal, Form } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
-import firebase from "./firebase/app";
+import firebase from "./firebase";
 const PickUp = () => {
   const navigate = useNavigate();
 
