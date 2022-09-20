@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TrackingApp.github.io/static/css/main.4c103934.css",
-    "main.js": "/TrackingApp.github.io/static/js/main.24f12922.js",
-    "static/js/787.a08020a2.chunk.js": "/TrackingApp.github.io/static/js/787.a08020a2.chunk.js",
-    "static/media/logo.svg": "/TrackingApp.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/TrackingApp.github.io/index.html",
-    "main.4c103934.css.map": "/TrackingApp.github.io/static/css/main.4c103934.css.map",
-    "main.24f12922.js.map": "/TrackingApp.github.io/static/js/main.24f12922.js.map",
-    "787.a08020a2.chunk.js.map": "/TrackingApp.github.io/static/js/787.a08020a2.chunk.js.map"
+    "main.css": "/TrackingApp/static/css/main.7c92417e.css",
+    "main.js": "/TrackingApp/static/js/main.32b68be4.js",
+    "static/js/787.a08020a2.chunk.js": "/TrackingApp/static/js/787.a08020a2.chunk.js",
+    "static/media/logo.svg": "/TrackingApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TrackingApp/index.html",
+    "main.7c92417e.css.map": "/TrackingApp/static/css/main.7c92417e.css.map",
+    "main.32b68be4.js.map": "/TrackingApp/static/js/main.32b68be4.js.map",
+    "787.a08020a2.chunk.js.map": "/TrackingApp/static/js/787.a08020a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c103934.css",
-    "static/js/main.24f12922.js"
+    "static/css/main.7c92417e.css",
+    "static/js/main.32b68be4.js"
   ]
 }
