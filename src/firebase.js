@@ -1,5 +1,5 @@
 import firebase from "firebase/app";
-
+import "firebase/auth";
 const config = {
   apiKey: "AIzaSyBFZc39yMDDsA9LVYsNQuDBdeBaq6Z8SdE",
   authDomain: "trackingapp-bfad3.firebaseapp.com",
