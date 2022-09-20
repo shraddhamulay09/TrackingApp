@@ -1,0 +1,35 @@
+.pickupsection .col-md-8{
+    padding: 2%;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("https://1021sunrise.com/wp-content/uploads/2017/06/Courier-Service-1024x683.jpg");
+    background-size: cover;
+    
+}
+
+
+.pickupsection .col-md-4{
+    padding: 2%;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    background-color: #cccccc;
+}
+
+.pickupsection{
+    margin-top: 50px;
+    height: 500px;
+
+}
+
+.pickupbtn{
+    height: 60px;
+    width: 200px;
+}
+
+.modal.show .modal-dialog {
+    max-width: none;
+    width: 40%;
+    transform: none;
+    /* margin: 0; */
+}

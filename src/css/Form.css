@@ -1,0 +1,61 @@
+/* .form_{
+    justify-content: center;
+    display: flex;
+}
+form{
+    margin-top: 20px;
+    padding: 2%;
+    background-color: #6d7f8f;
+    width:600px;
+    margin-bottom: 20px;
+} */
+
+/* .btn{
+    font-weight: 700;
+    color: black;
+    width: 50%;
+    border-color: black;
+    background-color: white;
+} */
+
+/* .btn-primary:hover{
+    border-color: black;
+    background-color: black;
+} */
+
+/* .pickupform{
+    justify-items: center;
+} */
+
+.contactus_container .row{
+    box-shadow: 0 6px 10px 0 rgb(0 0 0 / 10%);
+    width: 100%;
+}
+
+.contactus_container .col-md-8{
+padding: 2%;
+}
+
+.contactus_container .col-md-4{
+    padding: 2%;
+    background: #7f8ff4;
+}
+
+.contactus_container .form-control{
+    border: 1px solid gray;
+    height: 50px;
+    border-radius: 0;
+}
+
+.contactus_container .btn{
+    height: 50px;
+    cursor: pointer;
+    border-radius: 0;
+    width: 60%;
+    background: #7f8ff4;
+    border: #7f8ff4;
+}
+
+.contactus_container{
+    /* padding: 10%; */
+}

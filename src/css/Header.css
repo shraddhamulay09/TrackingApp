@@ -1,0 +1,33 @@
+.navbar{
+    padding: 0;
+}
+.trackbtn {
+    width: 15%;
+    border-radius: 0;
+    height: 60px;
+    background: #7f8ff4;
+  }
+
+  .trackbtn:hover{
+    background: #6779f3;
+
+  }
+
+.nav-link{
+    margin-left: 10px;
+    color: aliceblue;
+}
+  .nav-link:hover{
+    
+    background-color: aliceblue;
+    color: black;
+    border-radius: 2px;
+  }
+
+  .container-fluid{
+  padding-right: 0;
+}
+
+.btn:focus{
+  box-shadow: none;
+}
