@@ -8,21 +8,22 @@ import ContactUs from "./ContactUs";
 import AboutUs from "./AboutUs";
 import PickupForm from "./PickupForm";
 import Pickup_ from "./Pickup_";
-import { BrowserRouter as Router, Routes, Route}
-    from 'react-router-dom';
+import NewForm from "./NewForm";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
     {/* <React.StrictMode>
       <App />
     </React.StrictMode> */}
-   
+
     <Router>
-    <Routes>
-    <Route path='/' element={<App/>}/>
-      
-      <Route path='/pickup_' element={<Pickup_/>}/>
-    </Routes>
+      <Routes>
+        <Route path="/" element={<App />} />
+
+        <Route path="/pickup_" element={<Pickup_ />} />
+        <Route path="/newform" element={<NewForm />}></Route>
+      </Routes>
     </Router>
   </>
 );

@@ -1,4 +1,5 @@
 import react from "react";
+import NewForm from "./NewForm";
 import { useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import {
@@ -43,11 +44,7 @@ function Header() {
                 style={{ maxHeight: "100px" }}
                 navbarScroll
               >
-          
-                <Nav.Link onClick={() => scrollDown(pickup)}>
-                  
-                    Pick Up
-                </Nav.Link>
+                <Nav.Link onClick={() => scrollDown(pickup)}>Pick Up</Nav.Link>
                 <Nav.Link onClick={() => scrollDown(contact)}>
                   Contact Us
                 </Nav.Link>
@@ -80,7 +77,7 @@ function Header() {
           <SearchTrackId />
         </div>
         <div className="pickup" ref={pickup}>
-        <PickUp/>
+          <PickUp />
         </div>
 
         <div className="contact" ref={contact}>
