@@ -23,6 +23,7 @@ root.render(
 
         <Route path="/pickup_" element={<Pickup_ />} />
         <Route path="/newform" element={<NewForm />}></Route>
+        <Route path="/TrackingApp" element={<App />}></Route>
       </Routes>
     </Router>
   </>
